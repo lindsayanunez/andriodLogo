@@ -119,3 +119,41 @@ div div {
   -transform: rotate(-30deg) translate(30px, 0);
   -moz-transform: rotate(-30deg) translate(30px, 0);
 }
+
+h1{
+  color: #A4CA39;
+  text-align: center
+  font-family: 'Quicksand', sans-serif;;
+}
+
+/* -----------------footer------------------*/
+
+.footer{
+  font-size: 30px;
+  text-align: center;
+  padding: 40px 10px;
+  position: absolute;
+  top: 100;
+  color: #A4CA39;
+}
+
+.footer p{
+  font-size: 12px;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.footer a{
+  padding: 10px;
+}
+
+.footer a:visited{
+  color: #A4CA39;
+}
+
+.footer a:hover{
+  color: gray;
+}
+
+
